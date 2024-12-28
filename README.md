@@ -1,1 +1,1 @@
-# tec-car-rental-web-app
+# tec-auto-rental-web-app-infra
